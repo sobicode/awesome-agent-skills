@@ -933,6 +933,10 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 
 ### Community Skills
 
+**Featured collection**
+
+- **[FerdaTek/HUB---Skills-agents-tools](https://github.com/FerdaTek/HUB---Skills-agents-tools)** - Curated, governed skills hub: 200+ reviewed skills in `03 - LIBRARY` spanning development, design, sales, marketing, content, data, and more — promoted through an `INBOX → STAGING → LIBRARY` pipeline with a metadata schema and review rubric. Category-grouped index at `03 - LIBRARY/INDEX.md`.
+
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
